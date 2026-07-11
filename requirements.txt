@@ -1,0 +1,8 @@
+pandas
+numpy
+plotly
+lazypredict
+scikit-learn
+wandb
+matplotlib
+gradio
